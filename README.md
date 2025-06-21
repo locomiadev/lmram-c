@@ -1,2 +1,2 @@
 # lmram-c
-lmram C port
+порт моей программы LMRAM из питона в C
